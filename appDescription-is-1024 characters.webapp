@@ -17,19 +17,19 @@
     "url": "http://mozillalabs.com"
   },
   "installs_allowed_from": [
-    "https://appstore.mozillalabs.com"
+    "https://addons.mozilla.org"
   ],
   "locales": {
     "es": {
       "description": "¡Acción abierta emocionante del desarrollo del Web!",
       "developer": {
-        "url": "http://es.mozillalabs.com/"
+        "url": "https://addons.mozilla.org"
       }
     },
     "it": {
       "description": "Azione aperta emozionante di sviluppo di fotoricettore!",
       "developer": {
-        "url": "http://it.mozillalabs.com/"
+        "url": "https://addons.mozilla.org"
       }
     }
   },
